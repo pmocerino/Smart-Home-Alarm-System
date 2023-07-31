@@ -20,7 +20,7 @@ I focused on a single node, in order to work on a real prototype of the system.
 [Design](https://github.com/pasqualemocerino/Smart-Home-Alarm-System/blob/main/Design.md), document providing details on techincal aspects of the system.\
 [Evaluation](https://github.com/pasqualemocerino/Smart-Home-Alarm-System/blob/main/Evaluation.md), document providing details on system performance.\
 [Hackster.io blog post](https://www.hackster.io/mocerino1919964/smart-home-alarm-system-e8c79e), containing an hands-on step-by-step explaination of the project and a tutorial of the steps to follow.\
-[YouTube video demonstration](), a short video showing how the system works.
+[YouTube video demonstration](https://youtu.be/uvM3GXvci34), a short video showing how the system works.
 
 ## Startup Guide
 Install RIOT-OS from the official GitHub source with:
