@@ -1,5 +1,5 @@
 # MQTT Bridge
-Directory containing Python code for MQTT Bridge, useful to redirect sensor values to AWS.
+Directory containing Python code for MQTT Bridge, useful to relay information from the MCU to AWS and vice versa.
 
 ## Instructions
 After downloading [mosquitto](https://github.com/eclipse/mosquitto), it is possible to connect to AWS following the official [guide](https://aws.amazon.com/it/blogs/iot/how-to-bridge-mosquitto-mqtt-broker-to-aws-iot/).
