@@ -2,7 +2,7 @@
 
 | Author | Linkedin | Github |
 |--- |--- |--- |
-| Pasquale Mocerino | [Linkedin](https://www.linkedin.com/in/pasquale-mocerino-29088b1a2/) | [Github](https://github.com/pasqualemocerino) |
+| Pasquale Mocerino | [Linkedin](https://www.linkedin.com/in/pasquale-mocerino-29088b1a2/) | [Github](https://github.com/pmocerino) |
 
 ## Description
 
@@ -16,9 +16,9 @@ I focused on a single node, in order to work on a real prototype of the system.
 
 ## Useful links
 
-[Concept](https://github.com/pasqualemocerino/Smart-Home-Alarm-System/blob/main/Concept.md), document providing details on the system from the user point of view.\
-[Design](https://github.com/pasqualemocerino/Smart-Home-Alarm-System/blob/main/Design.md), document providing details on techincal aspects of the system.\
-[Evaluation](https://github.com/pasqualemocerino/Smart-Home-Alarm-System/blob/main/Evaluation.md), document providing details on system performance.\
+[Concept](https://github.com/pmocerino/Smart-Home-Alarm-System/blob/main/Concept.md), document providing details on the system from the user point of view.\
+[Design](https://github.com/pmocerino/Smart-Home-Alarm-System/blob/main/Design.md), document providing details on techincal aspects of the system.\
+[Evaluation](https://github.com/pmocerino/Smart-Home-Alarm-System/blob/main/Evaluation.md), document providing details on system performance.\
 [Hackster.io blog post](https://www.hackster.io/mocerino1919964/smart-home-alarm-system-e8c79e), containing an hands-on step-by-step explaination of the project and a tutorial of the steps to follow.\
 [YouTube video demonstration](https://youtu.be/uvM3GXvci34), a short video showing how the system works.
 
