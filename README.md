@@ -6,7 +6,7 @@
 
 ## Description
 
-Cloud-based home alarm IoT system collecting information from a set of Hall effect sensor placed on fixtures and interacting with the environment using actuators following the 'Sense-Think-Act' paradigm.
+Cloud-based home alarm IoT system collecting information from a set of Hall effect sensors placed on fixtures and interacting with the environment using actuators following the 'Sense-Think-Act' paradigm.
 
 My project is designed in order to offer some smart functionalities to a portable and flexible alarm system for buildings to keep track of internal break-ins or intrusions, for rapid notification. In detail, the system measures the opening of fixtures and provides a proper response through the activation of a LED and a buzzer and the sending of a notification to the user.
 
